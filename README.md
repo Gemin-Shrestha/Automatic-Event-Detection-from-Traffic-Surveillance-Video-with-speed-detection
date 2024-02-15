@@ -1,5 +1,5 @@
-# Automatic Event Detection from Traffic Surveillance Video with Speed Detection **December 2021**
-
+# Automatic Event Detection from Traffic Surveillance Video with Speed Detection 
+**December 2021**
 ## Description
 Welcome to our project on Automatic Event Detection from Traffic Surveillance Video with Speed Detection. This project aims to develop a robust system for automatically detecting events in traffic surveillance videos, such as accidents, road violations, and abnormal behaviors, while also providing speed detection capabilities. By leveraging state-of-the-art machine learning algorithms and computer vision techniques, our system enhances traffic monitoring and management, contributing to improved safety and efficiency on the roads.
 
